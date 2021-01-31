@@ -12,7 +12,8 @@ This project is simple 2 pages shopping cart with an option to add items and see
 Project is created with:
 * Hooks version: 16.8
 * React-redux version: 1.0
-* Material-UI library version: 999
+* Material-UI library version: 1.2
+* Scss version: 4.14.1
 	
 ## Setup
 To run this project, install it locally using npm:
