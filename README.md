@@ -23,7 +23,7 @@ $ cd ../shop-cart
 $ npm install
 $ npm start
 ```
-##Contributes
+## Contributes
 The Legendary Team EBAA
 #### Elad Tal
 #### Basya Kritchker
