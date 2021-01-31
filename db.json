@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "id": "abc123",
+      "name": "DVD+DVB player",
+      "price": 22,
+      "imgUrl": "https://res.cloudinary.com/basimgs/image/upload/v1612077966/DVD_uaoaak.jpg",
+      "amount": 10
+    },
+    {
+      "id": "abc1234",
+      "name": "Radio",
+      "price": 45,
+      "imgUrl": "https://res.cloudinary.com/basimgs/image/upload/v1612077967/radio_u3nx4s.jpg",
+      "amount": 10
+    },
+    {
+      "id": "abc12345",
+      "name": "DVD+DVB player",
+      "price": 22,
+      "imgUrl": "https://res.cloudinary.com/basimgs/image/upload/v1612077966/DVD_uaoaak.jpg",
+      "amount": 10
+    },
+    {
+      "id": "abc123456",
+      "name": "sheck",
+      "price": 12,
+      "imgUrl": "https://res.cloudinary.com/basimgs/image/upload/v1612077967/sheck_cwniof.jpg",
+      "amount": 10
+    },
+    {
+      "id": "abc1234567",
+      "name": "Music player",
+      "price": 32,
+      "imgUrl": "https://res.cloudinary.com/basimgs/image/upload/v1612077967/l_2065_csvau9.jpg",
+      "amount": 10
+    },
+    {
+      "id": "abc1234568",
+      "name": "DVD+DVB player",
+      "price": 22,
+      "imgUrl": "https://res.cloudinary.com/basimgs/image/upload/v1612077966/DVD_uaoaak.jpg",
+      "amount": 10
+    },
+    {
+      "id": "abc1234569",
+      "name": "TV",
+      "price": 22,
+      "imgUrl": "https://res.cloudinary.com/basimgs/image/upload/v1612077966/gg_aa3ztr.jpg",
+      "amount": 10
+    },
+    {
+      "id": "abc12345610",
+      "name": "DVD+DVB player",
+      "price": 22,
+      "imgUrl": "https://res.cloudinary.com/basimgs/image/upload/v1612077966/DVD_uaoaak.jpg",
+      "amount": 10
+    },
+    {
+      "id": "abc12345611",
+      "name": "microphon",
+      "price": 22,
+      "imgUrl": "https://res.cloudinary.com/basimgs/image/upload/v1612077967/microphon_shi5lv.jpg",
+      "amount": 10
+    },
+    {
+      "id": "abc12345612",
+      "name": "lightning protector",
+      "price": 32,
+      "imgUrl": "https://res.cloudinary.com/basimgs/image/upload/v1612077966/1_u4yf-x5_sa30oo.jpg",
+      "amount": 10
+    }
+  ]
+}
