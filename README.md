@@ -6,7 +6,7 @@
 * [Contributes](#contributes)
 
 ## General info
-This project is simple shopping cart with option to add .
+This project is simple 2 pages shopping cart with an option to add items and see them on your cart page.
 	
 ## Technologies
 Project is created with:
@@ -17,9 +17,8 @@ Project is created with:
 ## Setup
 To run this project, install it locally using npm:
 
-
 ```
-$ cd ../shop-cart
+$ cd ./shop-cart
 $ npm install
 $ npm start
 ```
