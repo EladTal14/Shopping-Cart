@@ -24,7 +24,7 @@ $ npm install
 $ npm start
 ```
 ## Contributes
-The Legendary Team EBAA
+### The Legendary Team EBAA
 #### Elad Tal
 #### Basya Kritchker
 #### Adir Hagag
